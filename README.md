@@ -1,2 +1,11 @@
 # Heart-Disease-Classifier
-Used Machine Learning Algorithms to predict whether a person has heart disease.
+Machine Learning Algorithms used:
+
+K-Nearest Neighbors
+
+Random Forest
+
+Decision Tree
+
+Artificial Neural Network
+
